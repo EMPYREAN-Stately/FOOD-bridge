@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍱 FoodShareAI
 
 AI-powered Food Waste Management System
@@ -21,3 +22,6 @@ AI-powered Food Waste Management System
 1. Clone repo
 2. Add .env
 3. Run backend & frontend
+=======
+# FOOD-bridge
+>>>>>>> 82ed9ce2a0cd785f63f2555145f9655db22c3e31
